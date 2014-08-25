@@ -7,8 +7,8 @@ When you have completed this, please "close" the issue assigned to you [here](ht
 
 ## Resources
 -	[HSL Picker](http://hslpicker.com/)
--	[All the HTML Tags!](http://www.w3schools.com/tags/)
--	[All the CSS properties!](http://www.w3schools.com/cssref/)
+-	[All the HTML Tags!](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+-	[All the CSS properties!](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
 ## Inspiration
 - http://emberjs.com/ember-users/
