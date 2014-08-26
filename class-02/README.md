@@ -9,3 +9,4 @@ Publish your results to a JSBin and close the issue assigned to you [here](https
 # Resources
 - [Class Notes](https://github.com/TIY-GVL-FEE-2014-Aug/Notes/blob/master/class-02/README.md)
 - [Learn CSS Layout](http://learnlayout.com/)
+- [CSS Triangle Generator](http://apps.eky.hk/css-triangle-generator/)
