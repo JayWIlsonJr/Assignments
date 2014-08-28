@@ -9,3 +9,7 @@ The assignment is to create an HTML and CSS file for the [Surf & Paddle design](
 - Screenshot tool (CMD + Shift + 4)
 - Sip.app for picking colors (see class notes)
 - [PerfectPixel](http://www.welldonecode.com/perfectpixel/) for checking pixel precision.
+
+# Fonts
+- Header font: https://www.google.com/fonts#UsePlace:use/Collection:Oswald
+- Body font: https://www.google.com/fonts#UsePlace:use/Collection:Open+Sans
