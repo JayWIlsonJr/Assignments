@@ -31,3 +31,4 @@ document.getElementById("myBtn").onclick = function(){
 - Read http://eloquentjavascript.net/03_functions.html
 - Read http://eloquentjavascript.net/04_data.html
 - Create 3 objects that have properties containing all of the types, with at least one function each, and one of the objects must be able to mutate both itself and another object.
+- Read http://bonsaiden.github.io/JavaScript-Garden/#types.equality
