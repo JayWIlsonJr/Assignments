@@ -9,7 +9,7 @@ Using the HTML in [index.html](index.html):
   4. Create a string based on that number (e.g. "37 monies")
   5. Change the total to use that string.
   6. Put all of the above steps inside a function.
-  7. Assign that function to the `onload` property of the update button.
+  7. Assign that function to the `onclick` property of the update button.
 
 # Functions
 
