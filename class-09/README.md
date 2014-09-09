@@ -1,6 +1,8 @@
 # 09/09/14
 Create an Etsy listing page using data from the API. For example, if you wanted to create a listing page about board games, use the URL https://api.etsy.com/v2/listings/active?api_key=cdwxq4soa7q4zuavbtynj8wx&keywords=board%20games&includes=Images to get the data and use jQuery and CSS to create a pages that looks like the [Etsy listing page for board games](https://www.etsy.com/search?q=board%20games), not including the header, footer, sidebar, etc.
 
+You are free to change the search term to whatever you'd like.
+
 We haven't covered how to fetch data using JavaScript, so just copy the data and store it in a variable.
 
 ## Bonus
