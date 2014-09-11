@@ -6,6 +6,7 @@ Switch out your own username for the following URLs:
 - https://api.github.com/users/jacobthemyth
 - https://api.github.com/users/jacobthemyth/repos
 - https://api.github.com/users/jacobthemyth/starred
+- https://api.github.com/users/jacobthemyth/orgs
 
 There is a considerable amount of data, so you'll probably want to store it in a separate file.
 
