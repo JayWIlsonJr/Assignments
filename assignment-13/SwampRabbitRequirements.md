@@ -1,5 +1,5 @@
 # Company Background
-Swamp Rabbit Cycling is the premier cycling shop for the Northern Raleigh area! We’ve been serving the area for over 25 years and are the number one source for all things bikes. We carry everything from mountain bike equipment to bike related clothing and safety gear. WE are a family owned private business and take pride in our long standing tradition of providing the best service in the area.
+Swamp Rabbit Cycling is the premier cycling shop for the Greater Greenville area! We’ve been serving the area for over 25 years and are the number one source for all things bikes. We carry everything from mountain bike equipment to bike related clothing and safety gear. WE are a family owned private business and take pride in our long standing tradition of providing the best service in the area.
 
 # Scope and Purpose
 The purpose of this project is to create an online presence to help promote our unique family owned business. We understand the need for an online presence to serve as a way for our customers to connect with us.
