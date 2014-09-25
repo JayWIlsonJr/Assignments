@@ -27,5 +27,5 @@ Use http://tiny-pizza-server.herokuapp.com/ to make the game multiplayer. You co
 - Feel free to use separate JavaScript files to avoid merge conflicts.
 
 # Resources
-- If you have no idea what any of this means, read through [this](http://en.wikipedia.org/Gameplay_of_Final_Fantasy#Parties_and_battles) and/or [watch this](http://youtube.com/watch?v=MNmKNhm-1Js).
+- If you have no idea what any of this means, read through [this](http://en.wikipedia.org/wiki/Gameplay_of_Final_Fantasy#Parties_and_battles) and/or [watch this](http://youtube.com/watch?v=MNmKNhm-1Js).
 - Artwork is not required, but if you'd like to include artwork, [this might help](http://opengameart.org). Maybe [this too](http://open.commonly.cc). Get your game working before you introduce artwork. If you have a beautiful page that doesn't work, it will be considered an incomplete assignment.
