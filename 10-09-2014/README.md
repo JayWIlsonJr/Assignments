@@ -20,3 +20,4 @@ The assignment is to make a [Slack](http://slack.com) clone called Crack.
     ```
 - Use the gravatar API to add avatar images.
 - Use [marked](https://github.com/chjj/marked) to allow Markdown formatting in messages.
+- Create an image tag if the message is a gif.
